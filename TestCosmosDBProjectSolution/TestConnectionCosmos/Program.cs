@@ -5,6 +5,10 @@ using Container = Microsoft.Azure.Cosmos.Container;
 namespace TestConnectionCosmos;
 class Program
 {
+    //Basic Connection
+    //Solution++
+    //Solution #1
+    //Solu #3
     static async Task Main()
     {
         string endpointUri = "https://localhost:8081/";
